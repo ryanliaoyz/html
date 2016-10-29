@@ -7,8 +7,8 @@ h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: lightyellow;
     text-shadow: mediumblue 5px 5px;
+    word-spacing: 0.05em;
+    letter-spacing: 0.02em;
 }
 
-.contact {
-
-}
+.contact {}
